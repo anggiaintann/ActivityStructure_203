@@ -20,4 +20,7 @@ int main()
 
 	cout << "Masukkan nim: ";
 	cin >> mhs2.nim;
+	cout << "Masukkan nama: ";
+	cin >> mhs2.nama;
+
 }
