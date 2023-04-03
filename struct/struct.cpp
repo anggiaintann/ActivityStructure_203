@@ -9,3 +9,13 @@ struct Mahasiswa {
 	int umur;
 };
 
+int main()
+{
+	Mahasiswa mhs1,mhs2;
+
+	mhs1.nim = "20210140011";
+	mhs1.nama = "tasya";
+	mhs1.alamat = "semarang";
+	mhs1.umur = 20;
+
+}
