@@ -28,5 +28,5 @@ int main()
 	cin >> mhs2.umur;
 
 	cout << "\nNim : " << mhs1.nim;
-
+	cout << "\nnama : " << mhs1.nama;
 }
