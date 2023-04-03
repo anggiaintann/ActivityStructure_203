@@ -31,4 +31,6 @@ int main()
 	cout << "\nnama : " << mhs1.nama;
 	cout << "\nalamat : " << mhs1.alamat;
 	cout << "\numur : " << mhs1.umur;
+
+	cout << "\nNim : " << mhs2.nim;
 }
