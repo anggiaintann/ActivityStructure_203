@@ -18,4 +18,6 @@ int main()
 	mhs1.alamat = "semarang";
 	mhs1.umur = 20;
 
+	cout << "Masukkan nim: ";
+	cin >> mhs2.nim;
 }
